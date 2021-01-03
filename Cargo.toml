@@ -1,0 +1,11 @@
+[package]
+name = "eq_archive"
+version = "0.1.0"
+authors = ["Chad Jablonski <chad@jablonski.xyz>"]
+edition = "2018"
+
+[dependencies]
+log = "0.4.11"
+env_logger = "0.7"
+flate2 = "1.0.14"
+nom = "5.1.1"
